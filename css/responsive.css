@@ -1,0 +1,24 @@
+@media(max-width: 485px) {
+    body{
+        width: 400px;
+        overflow-x: hidden;
+    }
+    .cartao{
+        padding: 0px;
+        margin: 0px;
+        border-top-left-radius: 0px;
+        display: block;
+        width: 400px;
+        box-shadow: none;
+        background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+        
+    }
+    .menu1{
+        height: 100%;
+        width: 100%;
+        margin: 0px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        
+    }
+  }
